@@ -9,6 +9,8 @@
 
 ## About the Project
 
+**![Video](Navigation.mkv "Video")** of navigating through the web interface of the app.
+
 A **Python3**  for finding and adding tour ideas, as well as managing users. Working with **user session**, **user data administration** and **access management**. Storing and **encrypting** sensitive data in the database.
 
 I used the **Flask** framework and the **Bootstrap** library to create a pleasant graphical interface for the application. 
